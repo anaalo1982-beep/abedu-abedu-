@@ -1,39 +1,45 @@
-<h1 align="center">👑 BEAUTIFUL COMPASS - ROYAL EDITION 👑</h1>
+<h1 align="center">👑 البوصلة الجميلة - الإصدار الملكي 👑</h1>
 
 <p align="center">
-  <img src="https://github.com/abedalah1982/abedu-abedu-/releases/download/v1.0.0-royal/certificate.png" width="700" alt="Certified Android Developer Diploma">
+  <a href="https://github.com/abedalah1982/abedu-abedu-/releases/download/v1.0.0-royal/certificate.png">
+    <img src="https://github.com/abedalah1982/abedu-abedu-/releases/download/v1.0.0-royal/certificate.png" width="700" alt="دبلوم مطور أندرويد معتمد">
+  </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/abedalah1982/abedu-abedu-/releases/tag/v1.0.0-royal">
-    <img src="https://img.shields.io/badge/Download%20Certificate-v1.0.0--royal-GOLD?style=for-the-badge&logo=github" alt="Download Certificate">
+    <img src="https://img.shields.io/badge/DOWNLOAD%20CERTIFICATE-V1.0.0--ROYAL-GOLD?style=for-the-badge&logo=github" alt="تحميل الشهادة">
   </a>
 </p>
 
 ---
 
-### 🏆 Certified Android Developer Diploma
+### 🔗 [دبلوم مطور أندرويد معتمد 🏆](https://github.com/abedalah1982/abedu-abedu-/releases/tag/v1.0.0-royal)
 
-**👨‍💻 Developer**: Bettahar Abedalah  
-**📚 Courses Completed**: 
-- Back-End Engineering 2024-2025
-- AI Fundamentals 2025-2025
+**👨‍💻 المطور**: بتهار عبد الله  
+**📚 الدورات المكتملة**:
+- • هندسة الواجهة الخلفية 2024-2025
+- • أساسيات الذكاء الاصطناعي 2025-2025
 
-**📅 Certification Date**: April 4, 2026  
-**👑 Project**: BEAUTIFUL COMPASS - ROYAL EDITION
-
----
-
-### 📜 About This Release
-
-This is the official Royal Edition release containing my certified Android Developer diploma.  
-The QR Code on the certificate links directly to this release: `v1.0.0-royal`
-
-**Features:**
-- ✨ Luxury UI with Golden Frame
-- 📱 Official Android Developer Certification
-- 🔗 Verified via GitHub Release
+**📅 تاريخ الاعتماد**: 4 أبريل 2026  
+**👑 المشروع**: البوصلة الجميلة - الإصدار الملكي
 
 ---
 
-<p align="center">© 2026 Bettahar Abedalah | All Rights Reserved</p>
+### 📜 حول هذا الإصدار 📄
+
+هذا هو الإصدار الملكي الرسمي الذي يحتوي على شهادة  
+مطور تطبيقات أندرويد المعتمدة.
+
+رمز الاستجابة السريعة الموجود على الشهادة يحيل مباشرة إلى  
+الإصدار `v1.0.0-royal` عبر الرابط:  
+`https://github.com/abedalah1982/abedu-abedu-/releases/tag/v1.0.0-royal`
+
+**سمات:**
+- ✨ واجهة مستخدم فاخرة بإطار ذهبي
+- 📱 شهادة مطور أندرويد الرسمية 
+- 🔗 تم التحقق منه عبر إصدار GitHub
+
+---
+
+<p align="center">© 2026 بتهار عابد الله | جميع الحقوق محفوظة</p>
